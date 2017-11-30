@@ -23,7 +23,7 @@ Si vous avez des questions, vous pouvez nous contacter sur contact@monkeypatch.i
 
 ---
 
-## Miscs
+## Détails
 
 * Tags (e.g: angular, android, web, iot) :
 * Niveau minimum des participants :
