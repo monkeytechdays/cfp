@@ -15,7 +15,7 @@
 
 Si vous avez des questions, vous pouvez nous contacter sur mktd@monkeypatch.io}
 
-Y a t'il une techno "concurrente" qui peut être étudiée lors du même MonkeyTechDay
+Y a t'il une techno alternative/similaire qui peut être étudiée lors du même MonkeyTechDay, Si oui Laquelle ? : 
 
 ---
 
