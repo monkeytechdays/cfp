@@ -1,8 +1,6 @@
 ## A propos de vous
 
 * Prénom Nom:
-* Email : 
-* Téléphone : 
 * Utilisateur Twitter :
 * Compte Linked IN :
 
