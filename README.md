@@ -4,9 +4,9 @@
 
 Bienvenue sur le Call for Paper des MonkeyTechDays.
 
-📋 [Proposer un sujet](https://github.com/monkeytechdays/cfp/issues/new) | 👍 [Voter pour un sujet talk](https://github.com/monkeytechdays/cfp/issues)
+📋 [Proposer un sujet](https://github.com/monkeytechdays/cfp/issues/new)
 
-Utilisez l'emoji 👍 pour soutenir un sujet.
+Utilisez l'emoji 👍 pour [soutenir un sujet.](https://github.com/monkeytechdays/cfp/issues)
 
 Liens :  
 🌐 [Site officiel](http://www.monkeytechdays.com/) | 🗺️ [Groupe Meetup](https://www.meetup.com/fr-FR/Monkey-Tech-Days/)
